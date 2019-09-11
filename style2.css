@@ -1,0 +1,26 @@
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+
+}
+
+input,
+label {
+    margin: .4rem 0;
+    text-align: center;
+}
+
+body {
+	background-color: red;
+}
+h1 {
+	background-color: black;
+	color: teal;
+	text-align: center;
+
+
+}
+.textname {
+	text-align: center;
+}
